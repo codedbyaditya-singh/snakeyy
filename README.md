@@ -25,7 +25,7 @@ This is a mini-project that demonstrates the use of **DOM manipulation, game loo
 ## 🚀 How to Run the Game
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/codebyaditya-singh/snakeyy.git
 🎵 Controls
 ArrowUp → Move Up
 ArrowDown → Move Down
