@@ -1,4 +1,4 @@
-# 🐍 Snake Game (JavaScript, HTML, CSS)
+# 🐍 SNAKEYY (JavaScript, HTML, CSS)
 
 A classic **Snake Game** built using **JavaScript, HTML, and CSS**.  
 This is a mini-project that demonstrates the use of **DOM manipulation, game loops, event handling, and local storage** in JavaScript.
